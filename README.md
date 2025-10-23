@@ -18,11 +18,14 @@ My role as a leader is to create the conditions for others to succeed - by enabl
 ## My Leadership Approach
 I lead by providing a clear structure that balances autonomy with accountability.
 
-Using Scrum and Agile principles, I ensure the team works iteratively, learns continuously, and delivers meaningful value.
+Using Scrum and Agile principles, I ensure the team works iteratively, learns continuously and delivers meaningful value.
 
-- Enable, don’t control: I focus on removing blockers, fostering ownership, and giving the team the freedom to solve problems their way.
-- Lead with clarity: I ensure goals, priorities, and roles are transparent and aligned.
-- Balance freedom with accountability: The team decides *how* to deliver; I make sure we all understand *why*.
+- Enable, don’t control
+  - I focus on removing blockers, fostering ownership, and giving the team the freedom to solve problems their way.
+- Lead with clarity
+  - I ensure goals, priorities, and roles are transparent and aligned.
+- Balance freedom with accountability and trust
+  - The team decides *how* to deliver; I make sure we all understand *why*.
 
 My technical background allows me to assess complexity, identify dependencies early, and ensure we approach problems logically and sustainably.
 
@@ -60,9 +63,9 @@ Not all work requires deep analysis - the key is knowing when it does.
 I use my experience and technical intuition, combined with the team’s input, to determine whether an item warrants a proposal phase or can proceed directly through the normal delivery flow.
 
 - If the work is complex, ambiguous, or has cross-team implications, I trigger a short alignment phase:
-- Run a workshop to clarify scope, dependencies, and risks.
-- Produce a proposal document summarising options, assumptions, and the preferred approach.
-- Once aligned, the proposal transitions into features and stories for implementation.
+ - Run a workshop to clarify scope, dependencies, and risks.
+ - Produce a proposal document summarising options, assumptions, and the preferred approach.
+ - Once aligned, the proposal transitions into features and stories for implementation.
 - If the work is well understood or low risk, the team moves directly to refinement and delivery, maintaining flow and avoiding unnecessary overhead.
 
 This distinction ensures the right level of governance and alignment at the right time - maintaining speed without sacrificing quality or clarity.
@@ -74,10 +77,14 @@ To support consistency and enable scaling across multiple teams and initiatives,
 
 These templates create a shared language and approach across the organisation:
 
-- Proposal Templates – capture the problem, context, options, recommendations, and decisions before development starts.
-- Epic Templates – define business outcomes, success measures, scope, and guardrails to focus on value.
-- Story and Task Templates – standardise *Definition of Ready* and *Definition of Done* for predictable delivery.
-- Workshop Frameworks – provide structure for discovery, decision-making, and knowledge-sharing sessions.
+- Proposal Templates
+  - capture the problem, context, options, recommendations, and decisions before development starts.
+- Epic Templates
+  - define business outcomes, success measures, scope, and guardrails to focus on value.
+- Story and Task Templates
+  - standardise *Definition of Ready* and *Definition of Done* for predictable delivery.
+- Workshop Frameworks
+  - provide structure for discovery, decision-making, and knowledge-sharing sessions.
 
 By introducing structured templates, teams can operate more independently, onboard faster, and collaborate effectively - without reinventing the process each time.
 
@@ -91,10 +98,25 @@ I believe that transparency builds trust, both within the team and with the cust
 There are no real secrets - every work item, decision, and change is visible in our shared backlog.
 
 - Shared communication channels between teams and the customer ensure that collaboration happens in the open.
-- All progress, discussions, and blockers are visible - nothing is hidden behind email chains or closed meetings.
+- All progress, discussions, and blockers are visible
+  - nothing is hidden behind email chains or closed meetings.
 - This openness allows the customer to see progress in real time, fostering a genuine partnership rather than a transactional relationship.
 
 By maintaining a single source of truth and shared visibility, we reduce misunderstanding, accelerate decision-making, and strengthen accountability across all parties.
+
+---
+
+## Metrics and Continuous Improvement  
+I use **metrics as tools for learning and celebration**, not as mechanisms for criticism.  
+Data helps us see trends, measure outcomes, and identify opportunities for improvement — but numbers alone never tell the full story.  
+
+- Metrics are used to celebrate achievements and highlight where improvements have made a measurable impact.  
+- We track outcomes over outputs
+  - focusing on customer value, cycle time, and flow efficiency rather than task volume.  
+- When performance dips, the goal is to understand and improve, not to assign blame.  
+- Retrospectives, reviews, and open discussion complement data, ensuring that insight leads to action.  
+
+This approach builds a growth-oriented culture where the team feels safe to experiment, learn, and continuously evolve.  
 
 ---
 
