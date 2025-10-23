@@ -63,9 +63,9 @@ Not all work requires deep analysis - the key is knowing when it does.
 I use my experience and technical intuition, combined with the team’s input, to determine whether an item warrants a proposal phase or can proceed directly through the normal delivery flow.
 
 - If the work is complex, ambiguous, or has cross-team implications, I trigger a short alignment phase:
- - Run a workshop to clarify scope, dependencies, and risks.
- - Produce a proposal document summarising options, assumptions, and the preferred approach.
- - Once aligned, the proposal transitions into features and stories for implementation.
+  - Run a workshop to clarify scope, dependencies, and risks.
+  - Produce a proposal document summarising options, assumptions, and the preferred approach.
+  - Once aligned, the proposal transitions into features and stories for implementation.
 - If the work is well understood or low risk, the team moves directly to refinement and delivery, maintaining flow and avoiding unnecessary overhead.
 
 This distinction ensures the right level of governance and alignment at the right time - maintaining speed without sacrificing quality or clarity.
