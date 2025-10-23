@@ -107,10 +107,11 @@ By maintaining a single source of truth and shared visibility, we reduce misunde
 ---
 
 ## Metrics and Continuous Improvement  
-I use **metrics as tools for learning and celebration**, not as mechanisms for criticism.  
-Data helps us see trends, measure outcomes, and identify opportunities for improvement — but numbers alone never tell the full story.  
+I use metrics as tools for learning and celebration, not as mechanisms for criticism.
 
-- Metrics are used to celebrate achievements and highlight where improvements have made a measurable impact.  
+Data helps us see trends, measure outcomes, and identify opportunities for improvement — but numbers alone never tell the full story.
+
+- Metrics are used to celebrate achievements and highlight where improvements have made a measurable impact.
 - We track outcomes over outputs
   - focusing on customer value, cycle time, and flow efficiency rather than task volume.  
 - When performance dips, the goal is to understand and improve, not to assign blame.  
