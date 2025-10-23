@@ -2,8 +2,7 @@
 
 ## Diagram
 
-![Uploading Mermaid Chart - Create complex, visual diagrams with text.-2025-10-23-164530.png…]()
-
+<img width="8400" height="4026" alt="Mermaid Chart - Create complex, visual diagrams with text -2025-10-23-164530" src="https://github.com/user-attachments/assets/83b866a7-89ba-44b3-95f7-5a70bb6aa953" />
 
 ---
 
