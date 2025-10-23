@@ -2,8 +2,8 @@
 
 ## Diagram
 
-![Mermaid Chart - Create complex, visual diagrams with text -2025-10-23-181508](https://github.com/user-attachments/assets/fde934c3-3586-4762-866c-72e393122bfe)
-<svg id="export-svg" width="100%" xmlns="http://www.w3.org/2000/svg" class="flowchart" style="max-width: 4200.24px; background: rgb(255, 255, 255);" viewBox="0 0 4200.2421875 2013.3984375" role="graphics-document document" aria-roledescription="flowchart-v2">
+![Uploading Mermaid Chart - Create complex, visual diagrams with text.-2025-10-23-164530.png…]()
+
 
 ---
 
