@@ -79,6 +79,7 @@ These templates create a shared language and approach across the organisation:
 
 - Proposal Templates
   - capture the problem, context, options, recommendations, and decisions before development starts.
+  - See here https://github.com/thatjamesw/howileadteams/blob/main/proposal_template.md 
 - Epic Templates
   - define business outcomes, success measures, scope, and guardrails to focus on value.
 - Story and Task Templates
