@@ -1,7 +1,6 @@
 # Proposal Template  
 
-A proposal is a lightweight artefact designed to **align stakeholders** on context, hypothesis, validation, and direction before a single line of code is written.  
-It promotes *clarity, shared understanding, and measurable outcomes* while avoiding premature development or rework.  
+A proposal is a lightweight artefact designed to **align stakeholders** on context, hypothesis, validation, and direction before a single line of code is written.  It promotes clarity, shared understanding and measurable outcomes while avoiding premature development or rework.  
 
 ---
 
@@ -32,7 +31,7 @@ List the key individuals or groups involved in this proposal. Clarify roles and 
 
 ## 3. Hypothesis and Validation
 
-### Hypothesis Statement
+### 3.1 Hypothesis Statement
 State your working hypothesis — what you *believe* to be true or achievable.  
 This is your starting assumption that guides discovery and solution design.  
 
@@ -41,7 +40,7 @@ This is your starting assumption that guides discovery and solution design.
 
 The hypothesis sets direction but remains open to validation and iteration.  
 
-### Validation of Hypothesis  
+### 3.2 Validation of Hypothesis  
 Summarise the research, data, or early testing used to validate (or challenge) the hypothesis.  
 
 **Consider including**  
